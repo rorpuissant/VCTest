@@ -1,4 +1,4 @@
 Test for EVC.
-More update !
+More updates !
 
 # VCTest
